@@ -1,16 +1,26 @@
 
 
 def q1():
-  #Write Assignment code here
+  word = input("input a word: ")
+
+print (word)
 
 def q2():
-  #Write Assignment code here
+name = input("input a name: ")
+
+print ("Hello"+ " " + name)
 
 def q3():
-  #Write Assignment code here
+name = input("input a name: ")
+lname = input ("input a last name: ")
 
+print (lname)
+print (name)
 def q4():
-  #Write Assignment code here
+student1 = input ("input a student: ")
+student2 = input ("input another student: ")
+
+print ("your students are" + " "+  student1 +" "+ "and" + " "+ student2)
 
 #Do not edit code below this comment
 
