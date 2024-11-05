@@ -1,26 +1,26 @@
 
 
 def q1():
-  word = input("input a word: ")
+  word = input("Input a word: ")
 
 print (word)
 
 def q2():
-name = input("input a name: ")
+name = input("Input a name: ")
 
 print ("Hello"+ " " + name)
 
 def q3():
-name = input("input a name: ")
-lname = input ("input a last name: ")
+name = input("Input a name: ")
+lname = input ("Input your last name: ")
 
 print (lname)
 print (name)
 def q4():
-student1 = input ("input a student: ")
-student2 = input ("input another student: ")
+student1 = input ("Input a student: ")
+student2 = input ("Input another student: ")
 
-print ("your students are" + " "+  student1 +" "+ "and" + " "+ student2)
+print ("Your students are" + " "+  student1 +" "+ "and" + " "+ student2)
 
 #Do not edit code below this comment
 
