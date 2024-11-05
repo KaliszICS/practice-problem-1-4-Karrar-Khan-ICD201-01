@@ -3,11 +3,11 @@ def q1():
     print (word)
 
 def q2():
-    name = input("Input a name: ")
+    name = input("Input your first name: ")
     print ("Hello "+ name)
 
 def q3():
-    name = input("Input a name: ")
+    name = input("Input your first name: ")
     lname = input ("Input your last name: ")
     print (f"{lname} {name}")
     
